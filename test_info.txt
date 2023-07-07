@@ -1,0 +1,5 @@
+Choose desirable settings first (word type, word length and time duration).
+In the 3 coloured boxes above, type the word in the middle box(in blue) into the 
+entry box given below. typing space automatically moves to the next word.
+Keep typing till the timer runs out.
+Your score will be displayed in WPM(Words Per Minute) after the chosen time period.
